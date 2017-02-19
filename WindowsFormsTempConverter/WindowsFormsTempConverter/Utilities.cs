@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace WindowsFormsTempConverter
 {
-    class Utilities
+    public class Utilities
     {
         public static double FahrenheitToCelsius(double temp)
         {
