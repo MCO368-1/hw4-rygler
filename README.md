@@ -16,3 +16,5 @@ Use your (updated) TempConverter code to perform all computations.
 2. Use online resources to fill in any gaps in your knowledge
 
 1. Use best practices and clean code
+
+[![Build Status](https://travis-ci.org/MCO368-1/hw4-rygler.svg?branch=master)](https://travis-ci.org/MCO368-1/hw4-rygler)
